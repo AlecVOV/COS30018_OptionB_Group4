@@ -1,8 +1,0 @@
-numpy
-matplotlib
-pandas
-pandas-datareader
-tensorflow
-yfinance
-scikit-learn
-mplfinance
