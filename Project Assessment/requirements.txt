@@ -1,0 +1,72 @@
+# Stock Prediction Project Requirements
+# Core Dependencies for Machine Learning Stock Prediction with Sentiment Analysis
+
+# Data Manipulation and Analysis
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine Learning - Scikit-learn
+scikit-learn>=1.0.0
+
+# Deep Learning - TensorFlow/Keras
+tensorflow>=2.8.0
+
+# Financial Data APIs
+yfinance>=0.1.70
+pandas-datareader>=0.10.0
+
+# Sentiment Analysis
+vaderSentiment>=3.3.2
+
+# Time Series Analysis
+statsmodels>=0.13.0
+
+# HTTP Requests for APIs
+requests>=2.27.0
+
+# Environment Variables
+python-dotenv>=0.19.0
+
+# YAML Configuration
+PyYAML>=6.0
+
+# Data Type Handling
+dataclasses>=0.6
+
+# Date and Time Utilities
+datetime
+
+# Operating System Interface
+os
+
+# Pickle for Model Serialization
+pickle
+
+# Subprocess for Package Installation
+subprocess
+
+# System-specific Parameters
+sys
+
+# Logging
+logging
+
+# Warnings Control
+warnings
+
+# Additional Utilities
+time
+json
+
+
+# Installation Command:
+# pip install -r requirements.txt
+
+# For Conda users:
+# conda install --file requirements.txt
+
